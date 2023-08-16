@@ -1,9 +1,8 @@
 const scores = [
   { name: 'barry', score: 89 },
-  { name: 'kevin', score: 12 },
+  { name: 'kevin', score: 42 },
   { name: 'ruta', score: 99 },
   { name: 'mary', score: 54 },
-  { name: 'kevin', score: 72 },
 ];
 
 const emails = [
