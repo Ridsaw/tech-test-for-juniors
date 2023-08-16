@@ -7,5 +7,10 @@ const notifyOfExamResults = () => {
   // console.log('data.emails', emails)
 };
 
+//Capitalize la première lettre d'une string passé en paramètre
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 module.exports = notifyOfExamResults;
 
